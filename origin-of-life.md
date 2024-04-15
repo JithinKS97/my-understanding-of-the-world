@@ -1,4 +1,5 @@
 # Origin of life
+
 1. In nature, stable structures tend to have greater longevity. We observe that they persist over time. However, if these stable structures also possess the capability to move and reproduce, they are better able to endure across both space and time.
 2. Initially, certain molecules with the capability to replicate themselves emerged by chance. These molecules are referred to as replicators.
 3. Replication was not perfect, leading to occasional errors. These errors resulted in variations among replicators, influencing their replication efficiency either positively or negatively.
