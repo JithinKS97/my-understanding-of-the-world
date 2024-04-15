@@ -1,4 +1,4 @@
-# Replicators code survival machines
+# Replicators and survival machines
 
 1. The structure of the replicator molecule dictates the configuration of the protective container it inhabits, i.e. the body.
 2. Replicators that form containers best suited for survival and reproduction are more likely to prevail.
