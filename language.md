@@ -1,0 +1,5 @@
+# Language
+
+1. Humans communicate complex ideas through intricate sound patterns, which has enhanced their ability to create detailed models and simulations of the world.
+2. Over time, they began using symbols as a means to communicate, record information, and preserve knowledge.
+3. This advancement in communication allowed groups of humans to collaboratively manipulate natural forces and develop the technologies that underpin modern society.
